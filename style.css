@@ -1,0 +1,45 @@
+.heading {
+    text-align: center;
+    margin-top: 200px;
+}
+.para {
+    text-align: center;
+}
+.img {
+    float: left;
+    margin-left: 50px;
+    width: 500px;
+    margin-top: 50px;
+}
+.pp {
+    width: 600px;
+    text-align-last: center;
+    float: right;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+.about {
+    
+    text-align: center;
+    margin-top: 700px;
+}
+.roo {
+    margin-left: 100px;
+}
+.sub {
+    margin-left: 500px;
+    padding: 0%;
+
+}
+.us {
+    margin-top: 300px;
+    
+}
+.send {
+    margin-bottom: 300px;
+    width: 100px;
+    margin-left: 500px;
+}
+.aa {
+    margin-top: 300px;
+}
